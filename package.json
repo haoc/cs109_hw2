@@ -1,9 +1,9 @@
 {
-    "name": "Chatroom",
+    "name": "Tasklist",
     "version": "0.0.1",
-    "description": "A chatroom",
+    "description": "A tasklist",
     "dependencies": {
-        "socket.io": "~0.9.6", 
-        "mime": "~1.2.7"
+        "socket.io": "*", 
+        "mime": "*"
     }
 }
